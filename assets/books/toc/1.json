@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "title": "၁-ပဏာမနှင့် ပဋိညာဉ်",
+    "tocLevel": 1,
+    "pageNumber": 32
+  },
+  {
+    "id": 2,
+    "title": "၂-ဗုဒ္ဓပ္ပါဒဒုလ္လဘအခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 34
+  },
+  {
+    "id": 3,
+    "title": "(က) ဗောဓိသတ္တ = (အလောင်းအလျာကြီးများ)",
+    "tocLevel": 2,
+    "pageNumber": 36
+  },
+  {
+    "id": 4,
+    "title": "(ခ) ဗောဓိသတ္တကိစ္စ =(အလောင်းအလျာကြီး တို့၏ လုပ်ငန်းစဉ်)",
+    "tocLevel": 2,
+    "pageNumber": 43
+  },
+  {
+    "id": 5,
+    "title": "(ဂ) ဗုဒ္ဓ= (ကိစ္စပြီးမြောက် ဗုဒ္ဓအဖြစ်သို့ရောက်တော်မူကြသော ပုဂ္ဂိုလ်သူမြတ်ကြီးများ)",
+    "tocLevel": 2,
+    "pageNumber": 54
+  },
+  {
+    "id": 6,
+    "title": "(ဃ) ဗုဒ္ဓကိစ္စ = (မြတ်စွာဘုရား၏လုပ်ငန်းစဉ်)",
+    "tocLevel": 2,
+    "pageNumber": 55
+  },
+  {
+    "id": 7,
+    "title": "၃-သုမေဓဗြာဟ္မဏအခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 69
+  },
+  {
+    "id": 8,
+    "title": "၄-သုမေဓာတောထွက်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 73
+  },
+  {
+    "id": 9,
+    "title": "၅-ဗျာဒိတ်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 88
+  },
+  {
+    "id": 10,
+    "title": "၆-ပါရမီတော်ဆင်ခြင်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 111
+  },
+  {
+    "id": 11,
+    "title": "(က) ဒါနပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 115
+  },
+  {
+    "id": 12,
+    "title": "(ခ) သီလပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 116
+  },
+  {
+    "id": 13,
+    "title": "(ဂ) နေက္ခမ္မပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 117
+  },
+  {
+    "id": 14,
+    "title": "(ဃ) ပညာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 118
+  },
+  {
+    "id": 15,
+    "title": "(င) ဝီရိယပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 119
+  },
+  {
+    "id": 16,
+    "title": "(စ) ခန္တီပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 120
+  },
+  {
+    "id": 17,
+    "title": "(ဆ) သစ္စာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 121
+  },
+  {
+    "id": 18,
+    "title": "(ဇ) အဓိဋ္ဌာနပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 123
+  },
+  {
+    "id": 19,
+    "title": "(ဈ) မေတ္တာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 125
+  },
+  {
+    "id": 20,
+    "title": "(ည) ဥပေက္ခာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 126
+  },
+  {
+    "id": 21,
+    "title": "အနုဒီပနီ = ထပ်မံဖွင့်ပြချက်",
+    "tocLevel": 1,
+    "pageNumber": 134
+  },
+  {
+    "id": 22,
+    "title": "စကားဦးပလ္လင်",
+    "tocLevel": 1,
+    "pageNumber": 134
+  },
+  {
+    "id": 23,
+    "title": "ပါရမီမည်ကြောင်း",
+    "tocLevel": 1,
+    "pageNumber": 135
+  },
+  {
+    "id": 24,
+    "title": "အဓိမုတ္တိမရဏ",
+    "tocLevel": 1,
+    "pageNumber": 136
+  },
+  {
+    "id": 25,
+    "title": "ကပ် = ကမ္ဘာအကြောင်း",
+    "tocLevel": 1,
+    "pageNumber": 137
+  },
+  {
+    "id": 26,
+    "title": "အမရဝတီခေါ်ကြောင်း",
+    "tocLevel": 1,
+    "pageNumber": 145
+  },
+  {
+    "id": 27,
+    "title": "အသံဆယ်ပါး",
+    "tocLevel": 1,
+    "pageNumber": 146
+  },
+  {
+    "id": 28,
+    "title": "၄-သုမေဓာတောထွက်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 147
+  },
+  {
+    "id": 29,
+    "title": "စင်္ကြံအပြစ်ငါးပါး",
+    "tocLevel": 2,
+    "pageNumber": 147
+  },
+  {
+    "id": 30,
+    "title": "သမဏသုခ (၈) ပါး",
+    "tocLevel": 2,
+    "pageNumber": 157
+  },
+  {
+    "id": 31,
+    "title": "လူဝတ်ပုဆိုးအပြစ် (၉)ပါး",
+    "tocLevel": 2,
+    "pageNumber": 157
+  },
+  {
+    "id": 32,
+    "title": "လျှော်တေသင်္ကန်း၏ဂုဏ်ကျေးဇူး (၁၂)ပါး",
+    "tocLevel": 2,
+    "pageNumber": 159
+  },
+  {
+    "id": 33,
+    "title": "သစ်သားသုံးခွ",
+    "tocLevel": 2,
+    "pageNumber": 161
+  },
+  {
+    "id": 34,
+    "title": "ရေကရားနှင့်ထမ်းပိုး",
+    "tocLevel": 2,
+    "pageNumber": 161
+  },
+  {
+    "id": 35,
+    "title": "အဇိနစမ္မ = သစ်နက်ရေ",
+    "tocLevel": 2,
+    "pageNumber": 161
+  },
+  {
+    "id": 36,
+    "title": "ဇဋာ၊ ဇဋာမဏ္ဍလ =ဆံကျစ်နှင့်ဆံကျစ်ဝန်း",
+    "tocLevel": 2,
+    "pageNumber": 164
+  },
+  {
+    "id": 37,
+    "title": "ရသေ့ရှစ်မျိုး",
+    "tocLevel": 2,
+    "pageNumber": 167
+  },
+  {
+    "id": 38,
+    "title": "သစ်ရွက်မိုးကျောင်း၏အပြစ်ရှစ်ပါး",
+    "tocLevel": 2,
+    "pageNumber": 172
+  },
+  {
+    "id": 39,
+    "title": "သစ်ပင်ရင်း၏ဂုဏ်ဆယ်ပါး",
+    "tocLevel": 2,
+    "pageNumber": 174
+  },
+  {
+    "id": 40,
+    "title": "၅-ဗျာဒိတ်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 176
+  },
+  {
+    "id": 41,
+    "title": "ဗျာဒိတ်နှင့်စပ်၍မှတ်ဖွယ်",
+    "tocLevel": 2,
+    "pageNumber": 178
+  },
+  {
+    "id": 42,
+    "title": "ကဆုန်လနှင့်ညောင်ရေယူဆပုံအမျိုးမျိုး",
+    "tocLevel": 2,
+    "pageNumber": 189
+  },
+  {
+    "id": 43,
+    "title": "နိမိတ်နှင့်စပ်၍မှတ်သားဖွယ်",
+    "tocLevel": 2,
+    "pageNumber": 193
+  },
+  {
+    "id": 44,
+    "title": "နိမိတ်ထင်ပုံနှင့်စပ်၍ မှတ်ဖွယ်",
+    "tocLevel": 2,
+    "pageNumber": 195
+  },
+  {
+    "id": 45,
+    "title": "၆-ပါရမီတော်ခဏ်း",
+    "tocLevel": 1,
+    "pageNumber": 199
+  },
+  {
+    "id": 46,
+    "title": "(က) ဒါနပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 199
+  },
+  {
+    "id": 47,
+    "title": "(ခ) သီလပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 283
+  },
+  {
+    "id": 48,
+    "title": "(ဂ) နေက္ခမ္မပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 389
+  },
+  {
+    "id": 49,
+    "title": "(ဃ) ပညာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 396
+  },
+  {
+    "id": 50,
+    "title": "(င) ဝီရိယပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 414
+  },
+  {
+    "id": 51,
+    "title": "(စ) ခန္တီပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 427
+  },
+  {
+    "id": 52,
+    "title": "(ဆ) သစ္စာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 439
+  },
+  {
+    "id": 53,
+    "title": "(ဇ) အဓိဋ္ဌာနပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 491
+  },
+  {
+    "id": 54,
+    "title": "(ဈ) မေတ္တာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 514
+  },
+  {
+    "id": 55,
+    "title": "(ည) ဥပေက္ခာပါရမီ",
+    "tocLevel": 2,
+    "pageNumber": 533
+  }
+]
